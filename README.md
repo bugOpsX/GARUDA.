@@ -1,6 +1,4 @@
 # GARUDA.
-# 🚀 GARUDA_OS
-
 > Autonomous • Tactical • Futuristic
 
 GARUDA_OS is a futuristic aerospace-inspired UI concept built as an experimental web experience.  
